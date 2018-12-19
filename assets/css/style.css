@@ -32,7 +32,7 @@ header {
 }
 
 .logo{
-    background:url("../images/ema.jpg");
+    background:url("../images/mir.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,7 +46,7 @@ header {
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
-    color: #ffffff;
+    color: green;
 }
 .title {
     font-family: "Roboto" , sans-serif;
